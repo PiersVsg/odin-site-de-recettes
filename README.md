@@ -1,6 +1,6 @@
 # Odin Projet #1: Recettes
 
-Lien: piersvsg.github.io/odin-site-de-recettes
+Lien: https://piersvsg.github.io/odin-site-de-recettes/
 
 Un site web écrit en HTML5 qui contient 3 recettes de gâteaux
 
